@@ -40,5 +40,6 @@
 				"scale": 3
 			}
 		]
-	}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
 }
