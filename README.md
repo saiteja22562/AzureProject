@@ -86,8 +86,6 @@ The workflow leverages **Azure Data Factory** for orchestrating data ingestion a
 
 ***
 
-### ⭐ Why This Project Showcases Top Data Engineer Skills
 
-**This project highlights practical expertise in Azure and Databricks tools, cloud-scale data engineering, medallion data modeling, DevOps/CI-CD, and hands-on notebook development—making it perfect for a data engineering portfolio!**
 
 [1](https://github.com/saiteja22562/AzureProject)
