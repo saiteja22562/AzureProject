@@ -1,0 +1,9 @@
+{
+	"name": "saidfdatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3c8f2d0f-e2c9-4697-823c-ee1302e17816",
+		"tenantId": "ccec2bdb-4bcc-4822-9ee4-544c73098272"
+	}
+}
