@@ -1,8 +1,5 @@
 # AzureProject
 
-Here’s a **detailed project overview** you can showcase on your GitHub to highlight your skills as a data engineer, based on the AzureProject repository structure and its Spotify data-focused implementation:
-
-***
 
 ## AzureProject: End-to-End Modern Data Engineering with Spotify Data
 
