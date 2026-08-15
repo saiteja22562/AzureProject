@@ -618,9 +618,4 @@ Clear ownership, explicit failure boundaries, measurable performance, and defens
 
 This repository is a portfolio/reference implementation using representative Spotify data.
 
-It demonstrates the engineering patterns implemented in the repository and explicitly separates them from the additional controls I would introduce for a production workload.
-
-
-
-
 [1](https://github.com/saiteja22562/AzureProject)
